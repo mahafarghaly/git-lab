@@ -8,6 +8,7 @@ public class HelloITI {
 		    System.out.println("Hello Git");
 			for(int i =0;i<10;i++){
 				system.out.println("Java");
+					system.out.println(" ");
 			}
     }
     
